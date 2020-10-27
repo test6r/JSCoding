@@ -1,5 +1,5 @@
 ## JSCoding
-Learn to code javascript with ease.
+Learn to code javascript with programs.
 
 
 
