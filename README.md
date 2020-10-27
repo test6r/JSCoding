@@ -1,4 +1,4 @@
-## JSCoding
+## Python Coding
 Learn to code python with programs.
 
 
