@@ -1,5 +1,5 @@
 ## Python Programms
-Python programs for practice.
+Collection of python programs for practice. 
 
 
 
