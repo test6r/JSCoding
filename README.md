@@ -1,5 +1,5 @@
 ## JSCoding
-Learn to code javascript with programs.
+Learn to code python with programs.
 
 
 
