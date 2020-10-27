@@ -1,5 +1,5 @@
-## Python Coding
-Learn to code python with programs.
+## Python Programms
+Python programs for practice.
 
 
 
